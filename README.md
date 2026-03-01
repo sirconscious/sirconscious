@@ -85,7 +85,6 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
 
 *"The quieter you become, the more you are able to hear."* 🐚
 
