@@ -62,12 +62,7 @@
 ---
 
 ### 🏴‍☠️ TryHackMe
-
-<div align="center">
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/sir.conscious.png" alt="TryHackMe Badge" />
-
-</div>
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sir.conscious.png?update=1)](https://tryhackme.com/p/sir.conscious)
 
 ---
 
